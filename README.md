@@ -1,2 +1,2 @@
-# SubscriptionService
-Complete code for the SubscriptionService task - Testing Bias experiment
+# Name
+Steven Loza Quishpe
